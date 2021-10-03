@@ -1,0 +1,4 @@
+# Git/GitHub tip No. 4: Comment your commits as you would have others comment theirs
+There are 10 kinds of coders: Those who comment their commits, and those who don’t. (Old joke. Hint: What base am I using?)
+
+I freely admit to being a stickler for good commit log messages. I set up my repositories to require messages for every commit, and I’ve been known to send out annoyed late-night messages when commits land with logs on the order of “xx.” If you’re the kind of developer who thinks (1) the code should speak for itself and (2) the in-line comments are way more important than the change logs, try cloning a repository you’ve never seen before and identifying the recent commit that may have caused the latest issue posted without reading all the code. As you can see, accurate commit logs are double-plus good.
