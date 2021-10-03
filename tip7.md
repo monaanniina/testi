@@ -1,4 +1,4 @@
-#Merge carefully
+# Merge carefully
 
 While merges with Git usually work well, if you do them without thinking, you can occasionally encounter difficulty. Step one is to make sure you have no uncommitted changes. From the git merge manual page:
 
